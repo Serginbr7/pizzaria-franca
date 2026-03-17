@@ -60,7 +60,7 @@ const products: Product[] = [
     description: "Refrigerante gelado para acompanhar sua pizza.",
     price: 12.0,
     image:
-      "https://images.unsplash.com/photo-1554866585-acbb2f46b34c?auto=format&fit=crop&w=300&q=80",
+      "https://d2xsxph8kpxj0f.cloudfront.net/310519663421651881/kJP6GeF3uSdshSCLYE9g7P/coca-cola-2l-VptC6it4sJequnT36kA2kf.webp",
     category: "bebidas",
   },
   {
@@ -78,7 +78,7 @@ const products: Product[] = [
     description: "Brownie quente com sorvete de baunilha.",
     price: 18.0,
     image:
-      "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?auto=format&fit=crop&w=300&q=80",
+      "https://d2xsxph8kpxj0f.cloudfront.net/310519663421651881/kJP6GeF3uSdshSCLYE9g7P/brownie-chocolate-cJKKubhRQ28pKoLFoUhffu.webp",
     category: "sobremesas",
   },
   {
